@@ -9,3 +9,6 @@ relevant data on healthcare facilities from online sources.
 outliers, ensuring data quality and accuracy for analysis.
 * Developed data visualizations and interactive dashboards using Tableau, effectively
 communicating key findings and insights to stakeholders.
+
+Link to the medium_article
+Link to the live_dashboard
