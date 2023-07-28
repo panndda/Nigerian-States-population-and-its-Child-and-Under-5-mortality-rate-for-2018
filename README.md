@@ -10,5 +10,6 @@ outliers, ensuring data quality and accuracy for analysis.
 * Developed data visualizations and interactive dashboards using Tableau, effectively
 communicating key findings and insights to stakeholders.
 
-Link to the medium_article
-Link to the live_dashboard
+[Here](https://medium.com/@adeniranomojola1/distribution-of-healthcare-facilities-in-nigeria-and-its-correlation-with-the-under-5-and-child-229d358c3815) is the Link to the [medium_article](https://medium.com/@adeniranomojola1/distribution-of-healthcare-facilities-in-nigeria-and-its-correlation-with-the-under-5-and-child-229d358c3815) for detailed documentation
+
+[Here](https://public.tableau.com/views/Book6_16628171477700/Dashboard1?%3Alanguage=en-US&publish=yes&%3Adisplay_count=n&%3Aorigin=viz_share_link) is the Link to the [live_dashboard](https://public.tableau.com/views/Book6_16628171477700/Dashboard1?%3Alanguage=en-US&publish=yes&%3Adisplay_count=n&%3Aorigin=viz_share_link) to interact with it
